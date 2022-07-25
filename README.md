@@ -25,7 +25,6 @@ class Skills extends Desenvolvedor {
 
 ## 📈 Stats
 
-![Gabriel Santos ](https://github-readme-stats.vercel.app/api?username=Gabriel Santos&hide=["issues"]&show_icons=true&line_height=30&line_width=100)
 
 
 
