@@ -32,8 +32,7 @@ class Skills extends Desenvolvedor {
 <p align="left" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
 <img src="https://github-readme-stats.vercel.app/api?username=GabrielSantos71&&show_icons=true&theme=radical"/>
-      <a style="margin-left:10px;" href="https://github.com/anuraghazra/github-readme-stats"> 
-<img style="margin-left:10px;"  src="https://github-readme-stats.vercel.app/api?username=GabrielSantos71&&show_icons=true&theme=radical"/>
+![Prathmesh's Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=prathmesh16&theme=buefy&layout=compact&langs_count=10)
   </a>
   </p>
 </div>
