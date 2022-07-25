@@ -29,12 +29,18 @@ class Skills extends Desenvolvedor {
 </br>
 
 
-
-<p align="center" >  
+<div>
+<p align="left" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
 <img  src="https://github-readme-stats.vercel.app/api?username=GabrielSantos71&&show_icons=true&theme=radical"/>
   </a>
   </p>
+  <p align="right" >  
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+<img  src="https://github-readme-stats.vercel.app/api?username=GabrielSantos71&&show_icons=true&theme=radical"/>
+  </a>
+  </p>
+</div>
 
 
 
