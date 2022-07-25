@@ -25,7 +25,7 @@ class Skills extends Desenvolvedor {
 
 ## 📈 Stats
 
-![Prathmesh's github stats](https://github-readme-stats.vercel.app/api?username=prathmesh16&hide=["issues"]&show_icons=true&line_height=30)
+![Gabriel Santos ](https://github-readme-stats.vercel.app/api?username=prathmesh16&hide=["issues"]&show_icons=true&line_height=300)
 
 
 
