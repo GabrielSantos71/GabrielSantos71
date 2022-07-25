@@ -1,3 +1,6 @@
+
+## 📈 Status - GabrielSantos71
+
 ```js
 import Desenvolvedor from 'saint-d3v';
 
@@ -23,7 +26,7 @@ class Skills extends Desenvolvedor {
   
 <br/>
 
-## 📈 Stats
+
 
 
 
