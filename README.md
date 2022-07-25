@@ -2,7 +2,7 @@
 ## 📈 Status - GabrielSantos71
 
 ```js
-import Desenvolvedor from 'saint-d3v';
+import Desenvolvedor from 'gabrield3v';
 
 class SobreMim extends Desenvolvedor {
   nome     = 'Gabriel Santos';
