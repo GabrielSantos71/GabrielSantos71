@@ -7,7 +7,6 @@ import Desenvolvedor from 'gabrield3v';
 class SobreMim extends Desenvolvedor {
   nome     = 'Gabriel Santos';
   area    = 'Front-end';
-  trabalho  = 'Nova Onda Caraguá';
   local = 'Caraguatatuba,SP';
 }
 
