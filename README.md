@@ -2,17 +2,17 @@
 ## 📈 Status - GabrielSantos71
 
 ```js
-import Desenvolvedor from 'gabrield3v';
+import Desenvolvedor from 'SousaDEV';
 
-class SobreMim extends Desenvolvedor {
-  nome     = 'Gabriel Santos';
-  area    = 'Front-end';
+class About extends Desenvolvedor {
+  name     = 'Gabriel Santos';
+  area    = 'Full Stack Developer';
   local = 'Caraguatatuba,SP';
 }
 
 class Skills extends Desenvolvedor {
-  linguagens  = ['HTML,CSS,JS,PHP'];
-  frameworks = ['Semantic UI,Bootstrap,Laravel'];
+  linguagens  = ['JS,PHP,C#,.NET,GO,NODE JS,JAVA,C++,Dart,React Native'];
+  frameworks = ['Bootstrap,ReactJS,TailWind,MUI,Laravel,Cake,Nest,Next,Express,Fiber,Zustand'];
 }
 ```
 
