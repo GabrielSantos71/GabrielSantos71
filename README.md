@@ -1,44 +1,53 @@
+<div align="center">
+ <img width=1000px height=200px src="https://logos-download.com/wp-content/uploads/2016/09/PHP_logo.png"/>
+</div>
 
-## 📈 Status - GabrielSantos71
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?&color=000000&background=FFFFFF&size=50&center=true&vCenter=true&width=1000&height=200&lines=Hello,+Hi,+I+am+SousaDev;I+am+18+years+old;Born+in+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-```js
-import Desenvolvedor from 'SousaDEV';
+<p align="center" style="fonte-size:30px">Ei, Gabriel aqui! Sou programador backend apaixonado por transformar ideias em funcionalidades robustas. Explorando o mundo do código para criar soluções poderosas.&nbsp;
 
-class About extends Desenvolvedor {
-  name     = 'Gabriel Santos';
-  area    = 'Full Stack Developer';
-  local = 'Caraguatatuba,SP';
-}
+<div  align="center" style="margin-bottom:100px">
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=DevN0t&theme=white&mode=monthly" />
+ </div>
 
-class Skills extends Desenvolvedor {
-  linguagens  = ['JS,PHP,C#,.NET,GO,NODE JS,JAVA,C++,Dart,React Native'];
-  frameworks = ['Bootstrap,ReactJS,TailWind,MUI,Laravel,Cake,Nest,Next,Express,Fiber,Zustand'];
-}
-```
+ 
+ &nbsp;
+ &nbsp;
 
-<p align="center">
+## My Skills
 
-<p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https://mail.google.com/mail/u/0/#inbox" /></a>
+#### Main Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Angular](https://img.shields.io/badge/Php-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![Vue](https://img.shields.io/badge/React%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)&nbsp;
 
-  <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-dos-santos-203534239/" /></a>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+#### Databases:
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![Postgresql](https://img.shields.io/badge/MySQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+
+#### Workstation Tools:
+
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+&nbsp;
+&nbsp;
+
+## Contacts:
+
+<div> 
+</a>
+<a href = "mailto:gabriel@litoraltech.com.br"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="[https://www.linkedin.com/in/](https://www.linkedin.com/in//)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+</div>&nbsp;&nbsp;
   
-<br/>
   
-</br>
-
-
-| <a href="https://github.com/GabrielSantos71/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielSantos71&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="GabrieLSantos github stats" /></a> | <a href="https://github.com/GabrielSantos71/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSantos71&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-  
-</p>
-
-
-
-
-
-
-
-
+ <img width=1000px height=200px src="https://cdn.discordapp.com/attachments/1046903091561234545/1145866733811417108/Untitled_design.png"/>
